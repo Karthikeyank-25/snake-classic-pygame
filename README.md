@@ -1,69 +1,70 @@
-🐍 Snake Game in Python
+#🐍 Snake Game in Python
 
 A classic Snake Game built using Python and the Turtle graphics library.
 Control the snake, eat the food, and grow longer — but avoid hitting the walls or yourself!
 
-🎮 Features
+##🎮 Features
 
-Smooth snake movement
+  - Smooth snake movement
 
-  Food generation at random locations
+  - Food generation at random locations
 
-Score tracking system
+  - Score tracking system
 
-Game-over detection and restart option
+  - Game-over detection and restart option
 
-Simple yet addictive gameplay
+  - Simple yet addictive gameplay
 
-🧠 Tech Stack
+##🧠 Tech Stack
 
-Language: Python
+  - Language: Python
 
-Library: Turtle (for graphics and controls)
+  - Library: Turtle (for graphics and controls)
 
-⚙️ How to Run
+##⚙️ How to Run
 
-Clone the repository
+###Clone the repository
 
 git clone https://github.com/<your-username>/<repo-name>.git
 
 
-Navigate to the project directory
+###Navigate to the project directory
 
 cd <repo-name>
 
 
-Run the game
+###Run the game
 
 python main.py
 
-🎯 Controls
+##🎯 Controls
 Key	Action
-⬆️	Move Up
-⬇️	Move Down
-⬅️	Move Left
-➡️	Move Right
-🏆 Objective
+  ⬆️	Move Up
+  ⬇️	Move Down
+  ⬅️	Move Left
+  ➡️	Move Right
 
-Eat as much food as possible to increase your score.
+##🏆 Objective
 
-Don’t crash into the walls or yourself!
+  - Eat as much food as possible to increase your score.
 
-📸 Screenshot
+  - Don’t crash into the walls or yourself!
+
+##📸 Screenshot
 
 (Add your game screenshot here if you have one — ![Game Screenshot](pyhon_snake_game_screenshot.png))
 
-💡 Future Enhancements
+##💡 Future Enhancements
 
-Add levels or speed increase
+  - Add levels or speed increase
+  
+  - Include background music and sound effects
+  
+  - Create a leaderboard system
+  
+  - Add a pause/resume feature
 
-Include background music and sound effects
+##🧑‍💻 Author
 
-Create a leaderboard system
-
-Add a pause/resume feature
-
-🧑‍💻 Author
-
-Karthikeyan K
+##Karthikeyan K
 Passionate Python developer exploring fun projects like games and automation.
