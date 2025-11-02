@@ -7,7 +7,7 @@ Control the snake, eat the food, and grow longer — but avoid hitting the walls
 
 Smooth snake movement
 
-Food generation at random locations
+  Food generation at random locations
 
 Score tracking system
 
@@ -51,7 +51,7 @@ Don’t crash into the walls or yourself!
 
 📸 Screenshot
 
-(Add your game screenshot here if you have one — ![Game Screenshot](screenshot.png))
+(Add your game screenshot here if you have one — ![Game Screenshot](pyhon_snake_game_screenshot.png))
 
 💡 Future Enhancements
 
